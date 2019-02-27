@@ -1,0 +1,22 @@
+{
+  "name": "demoPods",
+  "version": "0.1.0",
+  "summary": "A short description of demoPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/pgheo/demoPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "pgheo": "pgmagician@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/pgheo/demoPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "demoPods/Classes/**/*"
+}
